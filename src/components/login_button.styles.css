@@ -1,0 +1,14 @@
+.register{
+    margin-top : 30px;
+    border-radius : 20px;
+    letter-spacing : 2px;
+    margin-left : 70px;
+    color : green;
+    border :1px solid green;
+  }
+  @media only screen and (max-width:767px){
+    .register{
+        margin-left: 10px;
+        border-radius: 50px;
+      }
+  }
